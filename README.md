@@ -24,7 +24,7 @@ pip install flask requests
 
 ### 3️⃣ Execute a API
 ```sh
-python app.py
+python main.py
 ```
 
 A API rodará em **http://127.0.0.1:5000**.
