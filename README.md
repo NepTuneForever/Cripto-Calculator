@@ -13,7 +13,7 @@ Uma API simples para obter cotações de criptomoedas em tempo real, utilizando 
 
 ### 1️⃣ Clone o repositório
 ```sh
-git clone https://github.com/seuusuario/crypto-api.git
+git clone https://github.com/neptuneforever/crypto-api.git
 cd crypto-api
 ```
 
